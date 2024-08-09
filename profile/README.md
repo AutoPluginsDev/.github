@@ -1,4 +1,4 @@
-# Welcome the AutoPlugins devloppement github !
+# Welcome to the AutoPlugins Development GitHub!
 
 ### Spigots pages 🚰
 If you enjoy our work, please consider leaving a review on our Spigot plugin pages!
